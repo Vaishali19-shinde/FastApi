@@ -71,6 +71,5 @@ FastApi/
 ├── requirements.txt     # Python dependencies list
 └── README.md            # Project documentation
 
----
-## screenshot
+
 
